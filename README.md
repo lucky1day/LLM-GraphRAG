@@ -15,3 +15,5 @@
 模型使用：
 
 后期会更新配置文档。
+
+欢迎大家也来参加书生大模型实战营项目。项目链接：http://github.com/internLM/tutorial
